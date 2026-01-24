@@ -1,1 +1,1 @@
-FROM centos:8
+FROM almalinux:9
